@@ -19,5 +19,5 @@ Ultimately, integrating the LLM with tools lets it decide or think whether to ma
 
 This tool call can be initialized using the ToolNode - A node which is integrated with some tools. Here these tools include ArXiv, Wikipedia and Tavily.
 
-
+#### Note: Details for code logic are written within the notebooks as comments and markdowns as inference
 
